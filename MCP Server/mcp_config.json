@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "todo-api": {
+      "command": "python3",
+      "args": ["/Users/salmasaleem/Documents/MCP Server/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/Users/salmasaleem/Documents/MCP Server"
+      }
+    }
+  }
+}

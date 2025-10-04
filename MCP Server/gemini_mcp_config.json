@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "todo-api": {
+      "command": "python3",
+      "args": ["/Users/salmasaleem/Documents/MCP Server/mcp_server_fixed.py"],
+      "env": {
+        "PYTHONPATH": "/Users/salmasaleem/Documents/MCP Server"
+      },
+      "cwd": "/Users/salmasaleem/Documents/MCP Server",
+      "timeout": 10000,
+      "trust": true
+    }
+  }
+}
